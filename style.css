@@ -210,7 +210,7 @@ h3 {
   display: block;
   width: 150px;
   margin-left: 475px;
-  border: 0.5px solid rgba(200, 193, 193, 83%);
+  border: 1px solid rgba(200, 193, 193, 83%);
 }
 
 .table-heading {
